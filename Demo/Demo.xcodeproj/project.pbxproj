@@ -77,6 +77,7 @@
 		8AE080AA222E12DF00F1EDBF /* Demo */ = {
 			isa = PBXGroup;
 			children = (
+				8AE080CB222E1A3700F1EDBF /* New Group */,
 				8AE080AB222E12DF00F1EDBF /* AppDelegate.swift */,
 				8AE080AD222E12DF00F1EDBF /* ViewController.swift */,
 				8AE080AF222E12DF00F1EDBF /* Main.storyboard */,
@@ -94,6 +95,13 @@
 				8AE080C2222E12E300F1EDBF /* Info.plist */,
 			);
 			path = DemoTests;
+			sourceTree = "<group>";
+		};
+		8AE080CB222E1A3700F1EDBF /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
